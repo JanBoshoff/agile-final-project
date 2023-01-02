@@ -1,22 +1,4 @@
----
-name: User Story
-about: Create a issue based on a user story.
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-name: User Story
-about: Template for User Stories
-title: ''
-labels: ''
-assignees: ''
-
----
-
-**As a** [role]  
+ **As a** [role]  
  **I need** [function]  
  **So that** [benefit]  
    
